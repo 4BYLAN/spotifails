@@ -7,7 +7,7 @@ Bien sûr, il faut ajuster le code à vos propres ambitions.
 ---
 
 # Plateforme Responsive
-Je n'ai pas eu à vraiment travailler la **sample** car le framework Flutter s'en charge lui-même.
+Je n'ai pas eu à vraiment travailler la **sample** car la framework Flutter s'en charge lui-même.
 
 ## 🖥️ ۰ Desktop :
 ![Resultat Desktop](preview/desktop_example.PNG)
