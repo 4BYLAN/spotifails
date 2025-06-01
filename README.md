@@ -1,7 +1,7 @@
 # 🎛️ ۰ Spotifails
 C'est un **sample** Flutter qui se base sur le système et l'interface de la fenêtre de lyrics Spotify.
 <br>
-Intégrable dans vos projets Flutter, cet **sample** peut servir si vous souhaitez créer votre propre application musicale alternative à Spotify, Deezer, Amerigo ou Apple Music.
+Intégrable dans vos projets Flutter, cet **sample** peut servir si vous souhaitez créer votre propre application musicale alternative à Spotify, Deezer, Amerigo, Music Player ou Apple Music.
 Bien sûr, il faut ajuster le code à vos propres ambitions.
 
 ---
